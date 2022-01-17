@@ -15,12 +15,11 @@ Click [here](https://spring.io/guides/tutorials/rest/) to go to the tutorial pag
 ### end points
 ```
 > If you were to run this on a local machine, the end points will start with localhost:8080
-
-
 ```
 
 
 > * End points for HTTP GET requests (retrieve existing records)
+
 localhost:8080/employees
     ![image not found](./screen-shots/employees.png)
 
